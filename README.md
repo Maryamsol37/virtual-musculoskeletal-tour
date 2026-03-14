@@ -134,9 +134,9 @@ The Blender project files are large and stored externally.
 
 Download them here:
 
-- Best.blend: https://drive.google.com/...
-- museum.blend: [https://drive.google.com/...](https://drive.google.com/file/d/1YQB0DIlLI20gsyj39R3YEtUAYO83_-hk/view?usp=sharing)
-- animations.blend: https://drive.google.com/...
+- Best.blend: [https://drive.google.com/...](https://drive.google.com/file/d/1YhFIagfYn7mA3OKfiU-TdnRrVZTEnkeS/view?usp=sharing)
+- museum.blend: [https://drive.google.com/...](https://drive.google.com/file/d/1qvrbO094q6IH2pyMg3lHnl6usmoIv6Us/view?usp=sharing)
+- animations.blend: [https://drive.google.com/...](https://drive.google.com/file/d/1PhBft0EkyjYgqZVOik3CYtUlzTJvmBd_/view?usp=sharing)
   
 1. Install **Blender** (version 3.0 or higher recommended)  
 2. Open the file `animations.blend`  for the people animations with the anatomical figures
