@@ -181,15 +181,7 @@ A total of **9 characters** are animated in the scene:
 
 
 
----
-## 🤝 Member Contributions  
-| Name                          | Contribution                                                                 |
-|-------------------------------|------------------------------------------------------------------------------|
-| Maryam Mohamed Aly 1220315    | Modeled anatomical figures (muscles and skeletons), sculpted disease states <br> Research on musculoskeletal abnormalities, gathered reference X-rays |
-| Mena Hesham Ragab 1220321     | Animated characters (Mixamo integration and path-following logic)            |
-| Manal Hady Abdelfattah 1220103    | Modeled anatomical figures (muscles and skeletons), sculpted disease states <br> Research on musculoskeletal abnormalities, gathered reference X-rays |
-| Farah Ahmed Kamal 4230162     | Set up scene layout, museum architecture, environmental textures and Lighting |
-| Salma Mohamed Saad 4230195    | Set up scene layout, museum architecture, environmental textures and Lighting |
+
 
 
 ---
