@@ -129,6 +129,15 @@ A total of **9 characters** are animated in the scene:
 ---
 
 ## 🧪 How to Open the Project  
+
+The Blender project files are large and stored externally.
+
+Download them here:
+
+- Best.blend: https://drive.google.com/...
+- museum.blend: https://drive.google.com/...
+- animations.blend: https://drive.google.com/...
+  
 1. Install **Blender** (version 3.0 or higher recommended)  
 2. Open the file `animations.blend`  for the people animations with the anatomical figures
 3. Open the file `museum.blend`  for the full museum and the anatomical figures
