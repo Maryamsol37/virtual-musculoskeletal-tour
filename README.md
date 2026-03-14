@@ -1,5 +1,6 @@
 # 🦴 Virtual Tour of the Musculoskeletal System  
 ![Blender](https://img.shields.io/badge/Made%20with-Blender-orange)
+
 **Final Project – SBES140: Computer Graphics and Visualization**  
 Group Size: 5 Students  
 Tool Used: Blender  
