@@ -1,4 +1,4 @@
-# 🦴 Virtual Tour of the Musculoskeletal System  
+# Virtual Tour of the Musculoskeletal System  
 ![Blender](https://img.shields.io/badge/Made%20with-Blender-orange)
 
 **Final Project – SBES140: Computer Graphics and Visualization**  
@@ -7,14 +7,14 @@ Tool Used: Blender
 
 ---
 
-## 📜 Project Overview  
+## Project Overview  
 This project presents an interactive **virtual museum tour** of the **human musculoskeletal system** using Blender. It is designed for medical education and features animated characters, anatomical models, disease visualizations, and a realistic environment.
 
 ![alt text](images/fullmuseum.jpg)
 ![alt text](images/people.jpg)
 ---
 
-## 🧠 Objectives  
+## Objectives  
 - Create a virtual environment for exploring a major human organ system  
 - Animate characters (guides and visitors) with realistic motions and interactions  
 - Model and animate anatomical abnormalities/diseases  
@@ -23,7 +23,7 @@ This project presents an interactive **virtual museum tour** of the **human musc
 
 ---
 
-## 🏛️ Environment & Scene Description  
+## Environment & Scene Description  
 - The virtual museum features a **wooden panel floor**, **beige tiled walls**, and a **glass dome ceiling**.  
 - Decorative elements include:
   - 🪴 A **potted plant**
@@ -35,7 +35,7 @@ This project presents an interactive **virtual museum tour** of the **human musc
 
 ---
 
-## 🦴 Anatomical Figures and Diseases Visualized  
+## Anatomical Figures and Diseases Visualized  
 There are **8 anatomical figures**, visualizing **11 diseases/abnormalities**:
 
 1. **Skeletal Upper Bodies**
@@ -98,7 +98,7 @@ Each figure is accompanied by an **X-ray image or MRI** of the corresponding con
   
 ---
 
-## 🧍‍♂️ Animated Characters  
+## Animated Characters  
 A total of **9 characters** are animated in the scene:
 
 - 👥 Two people sitting on a couch having a conversation  
@@ -108,14 +108,14 @@ A total of **9 characters** are animated in the scene:
 
 ---
 
-## 💡 Lighting and Materials  
+## Lighting and Materials  
 - The environment uses a **single Sun lamp**, positioned outside the **glass dome** to simulate natural daylight.  
 - Materials range from **highly diffuse** (e.g. plaster) to **highly specular** (e.g. glass dome).  
 - All objects and characters are textured to maximize realism.
 
 ---
 
-## ⚙️ Assets Used  
+## Assets Used  
 - **Textures**:
   - Floor and wall textures: [Polyhaven](https://polyhaven.com/)  
   - Rug texture: [TextureCan](https://www.texturecan.com/)  
@@ -128,7 +128,7 @@ A total of **9 characters** are animated in the scene:
 
 ---
 
-## 🧪 How to Open the Project  
+## How to Open the Project  
 
 The Blender project files are large and stored externally.
 
@@ -147,7 +147,7 @@ Download them here:
 
 ---
 
-## 🗃️ File Structure  
+## File Structure  
 
 ```
 /Team5_VirtualTourProject/
@@ -195,14 +195,14 @@ Download them here:
 
 ---
 
-## 🧭 Future Improvements  
+## Future Improvements  
 - Add voice narration for guided tours  
 - Include interactive elements (e.g. clickable figures for info pop-ups)  
 - Expand to cover additional body systems and organs  
 
 ---
 
-## 📑 License & Credits  
+## License & Credits  
 This project uses public and free-to-use models and textures from:  
 - Polyhaven  
 - TextureCan  
